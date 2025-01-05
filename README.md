@@ -1,10 +1,2 @@
-# Android device tree for samsung SM-G991B (o1s)
-
-```
-#
-# Copyright (C) 2025 The Android Open Source Project
-# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+This is WIP so please don't blaim me if the build makes your phone explode.
+I'm NOT to be held responsible for any damage on your phone.
